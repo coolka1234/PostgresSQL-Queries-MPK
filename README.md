@@ -1,1 +1,1 @@
-Set of queries for MPK relational postgreSQL project.
+Set of queries for MPK relational PostgreSQL project.
