@@ -1,3 +1,4 @@
+-- vehicles with the most technical issues
 SELECT 
     vehicles.id_vehicle,
     vehicles.vehicle_number,
